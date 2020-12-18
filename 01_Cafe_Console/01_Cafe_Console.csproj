@@ -6,4 +6,8 @@
     <RootNamespace>_01_Cafe_Console</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\01_Cafe_Repo\01_Cafe_Repo.csproj" />
+  </ItemGroup>
+
 </Project>

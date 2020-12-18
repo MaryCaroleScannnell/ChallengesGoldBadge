@@ -6,7 +6,8 @@ namespace _01_Cafe_Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ProgramUICafe program = new ProgramUICafe();
+            program.Run();
         }
     }
 }
